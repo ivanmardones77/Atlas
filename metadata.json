@@ -1,0 +1,6 @@
+{
+  "name": "Spine Style Gen",
+  "description": "App to restyle Spine 2D atlases using AI while preserving exact layout and transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
